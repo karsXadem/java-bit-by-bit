@@ -1,0 +1,7 @@
+/**
+ * This package contains fundamental topics of Java programming.
+ * - Variables and Data Types
+ * - Operators
+ * - Basic Input and Output
+ */
+package basics;
