@@ -1,0 +1,17 @@
+Package Description: controlflow
+
+This package contains examples of control flow in Java programming.
+It includes basic structures like conditional statements (if-else, switch-case)
+and loops (for, while, do-while) to demonstrate how to control the flow of execution
+within a program. The examples provided are ideal for beginners and intermediate
+learners to understand the fundamental concepts of Java control flow.
+
+Package Contents:
+1. IfElseExample: An example of using if-else conditional statements.
+2. SwitchCaseExample: An example of using switch-case for decision making.
+3. ForLoopExample: Demonstrates the use of for loops.
+4. WhileLoopExample: Demonstrates the use of while loops.
+5. DoWhileLoopExample: Demonstrates the use of do-while loops.
+
+This package aims to provide clear and simple examples to help learners
+improve their Java programming skills.
