@@ -1,4 +1,4 @@
-package steps.step_01_basics;
+package step_01_basics;
 
 /**
  * This class demonstrates a basic Java program that:
